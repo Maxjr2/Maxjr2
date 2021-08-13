@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maxjr2
+- 👀 I’m interested in Cybersec,Networking,Cyceling,Gaming
+- 🌱 I’m currently learning Python
