@@ -8,6 +8,6 @@ Some quick suggested bullets by Github:
 - 🔭 I’m currently working on too many things
 - 🌱 I’m currently learning DevOps and Fullstack WebDev
 - 💬 Ask me about... its pobably better if you google it
-- 📫 How to reach me: contact@maxjr2.com
+- 📫 How to reach me: contact_at_maxjr2.com
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I like talking to rubber duckies
